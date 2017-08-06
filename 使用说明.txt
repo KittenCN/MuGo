@@ -1,0 +1,16 @@
+目录说明：
+
+data：棋谱
+logs：训练日志
+papers:文档
+processed_data：棋谱预处理数据
+tmp：训练出的模型
+
+使用方法：
+1、将sgf的围棋棋谱放到data文件夹下面。
+2、双击运行“z01 棋谱预处理.bat”，预处理棋谱。
+3、双击“z02 训练.bat”，使用棋谱训练模型。
+4、双击“z03 下棋.bat”，就可以跟训练出来的AI下棋。
+
+Mugo官网：https://github.com/brilee/MuGo
+sgf棋谱下载：https://u-go.net/gamerecords/

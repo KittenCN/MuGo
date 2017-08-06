@@ -1,0 +1,1 @@
+python main.py gtp policy --read-file=tmp\savedmodel

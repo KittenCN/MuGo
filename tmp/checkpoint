@@ -1,0 +1,2 @@
+model_checkpoint_path: "G:\\WorkStation\\python\\MuGo\\tmp\\savedmodel"
+all_model_checkpoint_paths: "G:\\WorkStation\\python\\MuGo\\tmp\\savedmodel"
